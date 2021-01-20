@@ -35,4 +35,4 @@ This approach will take into consideration the pre-activities that will be invol
 
 ## Future Work
 
-- Could try oversampling and undersampling of samples for selected classes.
+- Oversampling & Undersampling for Class Imabalance issue in the data.
